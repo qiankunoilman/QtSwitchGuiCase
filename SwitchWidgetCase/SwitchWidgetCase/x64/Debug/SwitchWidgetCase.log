@@ -1,0 +1,5 @@
+﻿RCC : warning : No resources in 'SwitchWidgetCase.qrc'.
+  
+  CustomSplashWidget.cpp
+d:\maker\switchwidget\switchwidgetcase\switchwidgetcase\customsplashwidget.h(10): warning C4068: 未知的杂注
+  SwitchWidgetCase.vcxproj -> D:\MAKER\SwitchWidget\SwitchWidgetCase\x64\Debug\SwitchWidgetCase.exe

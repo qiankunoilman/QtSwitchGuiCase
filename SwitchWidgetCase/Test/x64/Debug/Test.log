@@ -1,0 +1,8 @@
+﻿RCC : warning : No resources in 'Test.qrc'.
+  
+  Moc'ing Test.h...
+  main.cpp
+  Test.cpp
+  qrc_Test.cpp
+  moc_Test.cpp
+  Test.vcxproj -> D:\MAKER\SwitchWidget\SwitchWidgetCase\x64\Debug\Test.exe
